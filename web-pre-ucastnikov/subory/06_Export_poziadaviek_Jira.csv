@@ -1,0 +1,231 @@
+﻿Kľúč;Typ;Modul;Názov;Priorita;Stav;Nahlásil;Riešiteľ;Šprint;Vytvorené;Vyriešené;Odhad (h);Odpracované (h);Znovuotvorené
+EDB-1101;Story;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Mesto;Michal Rác;Šprint 8;15.06.2026;26.06.2026;24,0;24,0;0
+EDB-1102;Bug;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 8;19.06.2026;27.06.2026;2,0;1,5;0
+EDB-1103;Bug;Administrácia;Číselník agend;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 8;12.06.2026;15.06.2026;12,0;10,0;1
+EDB-1104;Bug;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 8;20.06.2026;23.06.2026;3,0;2,5;0
+EDB-1105;Task;Podania;Úprava formulára žiadosti o parkovaciu kartu;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 8;24.06.2026;04.07.2026;6,0;7,0;0
+EDB-1106;Bug;Administrácia;Správa používateľov úradu;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 8;21.06.2026;23.06.2026;16,0;13,5;0
+EDB-1107;Story;Doručovanie;Návrat nedoručenej zásielky;Vysoká;Hotovo;Kverion;Tomáš Kriško;Šprint 8;20.06.2026;28.06.2026;16,0;13,5;0
+EDB-1108;Story;Platby;Zaokrúhlenie sumy poplatku;Vysoká;Hotovo;Kverion;Michal Rác;Šprint 8;15.06.2026;19.06.2026;8,0;12,0;0
+EDB-1109;Bug;Doručovanie;Doručenie rozhodnutia firme so zástupcom;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 8;20.06.2026;26.06.2026;16,0;20,0;1
+EDB-1110;Story;Doručovanie;Zobrazenie histórie doručenia;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 8;18.06.2026;25.06.2026;16,0;15,0;0
+EDB-1111;Bug;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 8;14.06.2026;19.06.2026;4,0;6,5;1
+EDB-1112;Bug;Administrácia;Audit log zmien;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 8;24.06.2026;29.06.2026;2,0;2,0;0
+EDB-1113;Bug;Administrácia;Rola referenta – oprávnenia;Stredná;Hotovo;Kverion;Michal Rác;Šprint 8;21.06.2026;28.06.2026;8,0;8,0;0
+EDB-1114;Task;Platby;Platba kartou skončí timeoutom;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 8;20.06.2026;30.06.2026;3,0;6,0;0
+EDB-1115;Task;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Kverion;Michal Rác;Šprint 8;13.06.2026;18.06.2026;2,0;3,0;0
+EDB-1116;Task;Doručovanie;Doručenka sa nespáruje s podaním;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 8;18.06.2026;29.06.2026;3,0;3,5;0
+EDB-1117;Story;Podania;Validácia IČO pri podaní firmy;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 8;18.06.2026;25.06.2026;12,0;12,5;0
+EDB-1118;Story;Doručovanie;Doručenka sa nespáruje s podaním;Stredná;Hotovo;Mesto;Michal Rác;Šprint 8;17.06.2026;22.06.2026;24,0;22,0;0
+EDB-1119;Bug;Notifikácie;Pripomienka lehoty na doplnenie;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 8;18.06.2026;25.06.2026;8,0;10,0;0
+EDB-1120;Task;Administrácia;Rola referenta – oprávnenia;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 8;18.06.2026;30.06.2026;4,0;4,0;0
+EDB-1121;Bug;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 8;20.06.2026;02.07.2026;12,0;12,0;2
+EDB-1122;Bug;Platby;Platobná brána – test 3D Secure;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 8;21.06.2026;28.06.2026;8,0;11,5;0
+EDB-1123;Bug;Administrácia;Audit log zmien;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 8;19.06.2026;25.06.2026;8,0;10,0;1
+EDB-1124;Story;Platby;Vrátenie poplatku pri zastavení konania;Vysoká;Hotovo;Kverion;Michal Rác;Šprint 8;21.06.2026;25.06.2026;32,0;51,0;0
+EDB-1125;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 8;16.06.2026;18.06.2026;12,0;11,0;0
+EDB-1126;Bug;Integrácia ÚPVS;Zmena formátu správy ÚPVS;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 8;12.06.2026;09.07.2026;6,0;6,5;1
+EDB-1127;Task;Notifikácie;Šablóna e-mailu – diakritika;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 8;18.06.2026;01.07.2026;6,0;7,5;0
+EDB-1128;Bug;Notifikácie;Šablóna e-mailu – diakritika;Nízka;Hotovo;Kverion;Michal Rác;Šprint 8;14.06.2026;22.06.2026;4,0;4,5;1
+EDB-1129;Change request;Notifikácie;Zrušiť SMS notifikácie;Vysoká;Hotovo;Mesto;Ondrej Pavlík;Šprint 8;17.06.2026;21.06.2026;12,0;14,0;0
+EDB-1130;Task;Podania;Formulár neuloží rozpracované podanie;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 9;26.06.2026;;16,0;14,0;0
+EDB-1131;Bug;Notifikácie;Pripomienka lehoty na doplnenie;Najvyššia;Hotovo;Kverion;Tomáš Kriško;Šprint 9;08.07.2026;;4,0;3,0;1
+EDB-1132;Bug;Notifikácie;E-mail o prijatí podania nechodí;Stredná;Hotovo;Mesto;Michal Rác;Šprint 9;30.06.2026;;2,0;1,5;0
+EDB-1133;Story;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 9;07.07.2026;;32,0;32,5;0
+EDB-1134;Bug;Platby;Zaokrúhlenie sumy poplatku;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 9;29.06.2026;03.07.2026;2,0;4,0;1
+EDB-1135;Task;Doručovanie;Zobrazenie histórie doručenia;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 9;26.06.2026;09.07.2026;8,0;6,5;0
+EDB-1136;Story;Administrácia;Export štatistík do Excelu;Nízka;Hotovo;Kverion;Michal Rác;Šprint 9;07.07.2026;12.07.2026;32,0;28,0;0
+EDB-1137;Story;Notifikácie;Notifikácia do schránky ÚPVS;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 9;04.07.2026;12.07.2026;32,0;26,5;0
+EDB-1138;Story;Doručovanie;Doručenka sa nespáruje s podaním;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 9;03.07.2026;09.07.2026;8,0;9,5;0
+EDB-1139;Bug;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Vysoká;Hotovo;Kverion;Tomáš Kriško;Šprint 9;26.06.2026;02.07.2026;4,0;4,0;2
+EDB-1140;Task;Notifikácie;Pripomienka lehoty na doplnenie;Vysoká;Hotovo;Kverion;Tomáš Kriško;Šprint 9;03.07.2026;12.07.2026;2,0;2,0;0
+EDB-1141;Task;Integrácia ÚPVS;Mapovanie typov správ;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 9;06.07.2026;10.07.2026;4,0;5,0;0
+EDB-1142;Task;Notifikácie;Pripomienka lehoty na doplnenie;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 9;26.06.2026;04.07.2026;3,0;3,0;0
+EDB-1143;Task;Doručovanie;Zobrazenie histórie doručenia;Nízka;Hotovo;Mesto;Michal Rác;Šprint 9;07.07.2026;17.07.2026;12,0;10,0;0
+EDB-1144;Task;Podania;Chýba nápoveda k povinným poliam;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 9;07.07.2026;19.07.2026;6,0;7,5;0
+EDB-1145;Story;Doručovanie;Chybný adresát pri splnomocnení;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 9;02.07.2026;06.07.2026;32,0;29,5;0
+EDB-1146;Story;Podania;Chýba nápoveda k povinným poliam;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 9;05.07.2026;09.07.2026;32,0;32,0;0
+EDB-1147;Story;Integrácia ÚPVS;Chyba pri overení eID tokenu;Najvyššia;Hotovo;Kverion;Lucia Vargová;Šprint 9;05.07.2026;11.07.2026;16,0;14,5;0
+EDB-1148;Story;Podania;Kontrola duplicitného podania;Stredná;Hotovo;Kverion;Michal Rác;Šprint 9;27.06.2026;10.07.2026;16,0;16,0;0
+EDB-1149;Bug;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Vysoká;Hotovo;Kverion;Tomáš Kriško;Šprint 9;05.07.2026;14.07.2026;12,0;15,0;0
+EDB-1150;Task;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 9;06.07.2026;11.07.2026;12,0;10,5;0
+EDB-1151;Bug;Platby;Nespárovaná platba s podaním;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 9;28.06.2026;05.07.2026;6,0;11,0;0
+EDB-1152;Task;Podania;Zlé zalamovanie textu na mobile;Nízka;Hotovo;Mesto;Michal Rác;Šprint 9;06.07.2026;16.07.2026;12,0;10,0;0
+EDB-1153;Bug;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 9;02.07.2026;17.07.2026;2,0;1,5;0
+EDB-1154;Bug;Podania;Chýba nápoveda k povinným poliam;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 9;26.06.2026;05.07.2026;2,0;2,0;0
+EDB-1155;Bug;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Mesto;Ondrej Pavlík;Šprint 9;26.06.2026;30.06.2026;2,0;2,0;0
+EDB-1156;Story;Platby;Platobná brána – test 3D Secure;Vysoká;Hotovo;Mesto;Eva Hudecová;Šprint 9;06.07.2026;15.07.2026;24,0;44,0;0
+EDB-1157;Story;Administrácia;Audit log zmien;Stredná;Hotovo;Kverion;Michal Rác;Šprint 10;18.07.2026;08.07.2026;24,0;30,5;0
+EDB-1158;Task;Podania;Chýba nápoveda k povinným poliam;Vysoká;Hotovo;Kverion;Tomáš Kriško;Šprint 10;10.07.2026;22.06.2026;4,0;3,5;0
+EDB-1159;Story;Integrácia ÚPVS;Odpoveď ÚPVS sa nespracuje;Najvyššia;Hotovo;Mesto;Juraj Benko;Šprint 10;15.07.2026;04.07.2026;32,0;35,0;0
+EDB-1160;Bug;Doručovanie;Stav Doručené sa neaktualizuje;Najvyššia;Hotovo;Kverion;Eva Hudecová;Šprint 10;20.07.2026;22.07.2026;3,0;3,0;0
+EDB-1161;Bug;Podania;Validácia IČO pri podaní firmy;Stredná;Hotovo;Kverion;Michal Rác;Šprint 10;11.07.2026;19.07.2026;4,0;4,0;1
+EDB-1162;Task;Administrácia;Správa používateľov úradu;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 10;11.07.2026;17.07.2026;3,0;3,5;0
+EDB-1163;Bug;Integrácia ÚPVS;Mapovanie typov správ;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 10;13.07.2026;07.08.2026;3,0;3,0;1
+EDB-1164;Story;Administrácia;Export štatistík do Excelu;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 10;18.07.2026;30.07.2026;16,0;13,5;0
+EDB-1165;Task;Podania;Chýba nápoveda k povinným poliam;Stredná;Hotovo;Kverion;Michal Rác;Šprint 10;10.07.2026;19.07.2026;12,0;12,5;0
+EDB-1166;Task;Notifikácie;Duplicitné e-maily pri zmene stavu;Nízka;Hotovo;Mesto;Michal Rác;Šprint 10;21.07.2026;27.07.2026;6,0;5,5;0
+EDB-1167;Task;Integrácia ÚPVS;Opakované odoslanie po výpadku;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 10;21.07.2026;31.07.2026;8,0;6,5;0
+EDB-1168;Story;Doručovanie;Stav Doručené sa neaktualizuje;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 10;14.07.2026;23.07.2026;8,0;10,0;0
+EDB-1169;Story;Platby;Vrátenie poplatku pri zastavení konania;Nízka;Hotovo;Mesto;Ondrej Pavlík;Šprint 10;17.07.2026;25.07.2026;32,0;46,5;0
+EDB-1170;Bug;Platby;Vrátenie poplatku pri zastavení konania;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 10;15.07.2026;17.07.2026;8,0;11,5;0
+EDB-1171;Bug;Notifikácie;Šablóna e-mailu – diakritika;Stredná;Hotovo;Mesto;Ondrej Pavlík;Šprint 10;16.07.2026;23.07.2026;6,0;5,0;0
+EDB-1172;Task;Administrácia;Správa používateľov úradu;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 10;18.07.2026;25.07.2026;12,0;13,5;0
+EDB-1173;Bug;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 10;22.07.2026;29.07.2026;6,0;9,0;0
+EDB-1174;Story;Platby;Potvrdenie o platbe neobsahuje variabilný symbol;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 10;16.07.2026;25.07.2026;12,0;23,5;0
+EDB-1175;Story;Podania;Zlé zalamovanie textu na mobile;Nízka;Hotovo;Mesto;Michal Rác;Šprint 10;18.07.2026;30.07.2026;12,0;12,5;0
+EDB-1176;Bug;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 10;21.07.2026;13.08.2026;6,0;6,5;0
+EDB-1177;Bug;Notifikácie;Pripomienka lehoty na doplnenie;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 10;22.07.2026;26.07.2026;8,0;8,0;1
+EDB-1178;Bug;Doručovanie;Zobrazenie histórie doručenia;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 10;15.07.2026;18.07.2026;8,0;8,5;0
+EDB-1179;Bug;Notifikácie;Odhlásenie z notifikácií;Stredná;Hotovo;Mesto;Michal Rác;Šprint 10;15.07.2026;24.07.2026;2,0;2,0;0
+EDB-1180;Bug;Doručovanie;Doručenka sa nespáruje s podaním;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 10;17.07.2026;25.07.2026;6,0;5,0;0
+EDB-1181;Bug;Notifikácie;Duplicitné e-maily pri zmene stavu;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 10;16.07.2026;22.07.2026;3,0;2,5;0
+EDB-1182;Story;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 10;13.07.2026;18.07.2026;8,0;14,5;0
+EDB-1183;Bug;Platby;Platba kartou skončí timeoutom;Nízka;Hotovo;Kverion;Juraj Benko;Šprint 10;12.07.2026;20.07.2026;4,0;7,0;0
+EDB-1184;Change request;Administrácia;Pridať tlač potvrdenia;Stredná;Hotovo;Mesto;Ondrej Pavlík;Šprint 10;21.07.2026;31.07.2026;2,0;2,0;0
+EDB-1185;Bug;Notifikácie;Pripomienka lehoty na doplnenie;Stredná;Hotovo;Kverion;Michal Rác;Šprint 11;30.07.2026;03.08.2026;8,0;7,0;0
+EDB-1186;Bug;Notifikácie;Pripomienka lehoty na doplnenie;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 11;26.07.2026;28.07.2026;16,0;13,5;0
+EDB-1187;Story;Doručovanie;Stav Doručené sa neaktualizuje;Nízka;Hotovo;Kverion;Lucia Vargová;Šprint 11;04.08.2026;12.08.2026;24,0;30,5;0
+EDB-1188;Bug;Integrácia ÚPVS;Opakované odoslanie po výpadku;Najvyššia;Hotovo;Mesto;Juraj Benko;Šprint 11;02.08.2026;31.08.2026;8,0;7,0;1
+EDB-1189;Story;Podania;Chýba nápoveda k povinným poliam;Vysoká;Hotovo;Kverion;Lucia Vargová;Šprint 11;04.08.2026;12.08.2026;12,0;14,5;0
+EDB-1190;Story;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Nízka;Hotovo;Mesto;Tomáš Kriško;Šprint 11;31.07.2026;04.08.2026;24,0;27,0;0
+EDB-1191;Task;Podania;Zlé zalamovanie textu na mobile;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 11;05.08.2026;10.08.2026;4,0;3,5;0
+EDB-1192;Story;Notifikácie;Notifikácia do schránky ÚPVS;Vysoká;Hotovo;Mesto;Eva Hudecová;Šprint 11;28.07.2026;01.08.2026;12,0;10,0;0
+EDB-1193;Bug;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 11;04.08.2026;07.08.2026;8,0;9,5;0
+EDB-1194;Task;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Vysoká;Hotovo;Kverion;Michal Rác;Šprint 11;30.07.2026;03.08.2026;4,0;4,0;0
+EDB-1195;Bug;Integrácia ÚPVS;Zmena formátu správy ÚPVS;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 11;01.08.2026;27.08.2026;16,0;20,5;1
+EDB-1196;Bug;Notifikácie;Duplicitné e-maily pri zmene stavu;Najvyššia;Hotovo;Mesto;Ondrej Pavlík;Šprint 11;30.07.2026;05.08.2026;6,0;6,5;0
+EDB-1197;Bug;Administrácia;Nastavenie lehôt pre agendu;Stredná;Hotovo;Kverion;Michal Rác;Šprint 11;24.07.2026;30.07.2026;2,0;2,0;0
+EDB-1198;Story;Doručovanie;Zobrazenie histórie doručenia;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 11;02.08.2026;07.08.2026;32,0;28,0;0
+EDB-1199;Bug;Podania;Kontrola duplicitného podania;Stredná;Hotovo;Kverion;Michal Rác;Šprint 11;24.07.2026;31.07.2026;12,0;15,5;0
+EDB-1200;Story;Administrácia;Export štatistík do Excelu;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 11;28.07.2026;01.08.2026;12,0;13,5;0
+EDB-1201;Story;Doručovanie;Návrat nedoručenej zásielky;Nízka;Hotovo;Kverion;Ondrej Pavlík;Šprint 11;03.08.2026;07.08.2026;12,0;13,0;0
+EDB-1202;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Mesto;Michal Rác;Šprint 11;02.08.2026;10.08.2026;6,0;6,5;1
+EDB-1203;Bug;Integrácia ÚPVS;Chyba pri overení eID tokenu;Najvyššia;Hotovo;Kverion;Michal Rác;Šprint 11;31.07.2026;14.08.2026;2,0;2,0;1
+EDB-1204;Task;Administrácia;Nastavenie lehôt pre agendu;Vysoká;Hotovo;Mesto;Ondrej Pavlík;Šprint 11;25.07.2026;31.07.2026;3,0;4,0;0
+EDB-1205;Story;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Stredná;Hotovo;Kverion;Michal Rác;Šprint 11;01.08.2026;09.08.2026;8,0;9,5;0
+EDB-1206;Story;Notifikácie;E-mail o prijatí podania nechodí;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 11;02.08.2026;07.08.2026;32,0;31,5;0
+EDB-1207;Story;Podania;Úprava formulára žiadosti o parkovaciu kartu;Nízka;Hotovo;Kverion;Lucia Vargová;Šprint 11;30.07.2026;07.08.2026;32,0;38,0;0
+EDB-1208;Story;Integrácia ÚPVS;Mapovanie typov správ;Stredná;Hotovo;Kverion;Lucia Vargová;Šprint 11;04.08.2026;11.08.2026;24,0;21,0;0
+EDB-1209;Bug;Integrácia ÚPVS;Mapovanie typov správ;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 11;04.08.2026;23.08.2026;2,0;2,0;0
+EDB-1210;Story;Integrácia ÚPVS;Chyba pri overení eID tokenu;Stredná;Hotovo;Kverion;Lucia Vargová;Šprint 11;31.07.2026;06.08.2026;12,0;10,0;0
+EDB-1211;Bug;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 11;26.07.2026;03.08.2026;8,0;8,5;0
+EDB-1212;Change request;Podania;Upraviť farby podľa vizuálu mesta;Vysoká;Hotovo;Mesto;Michal Rác;Šprint 11;30.07.2026;12.08.2026;4,0;3,5;0
+EDB-1213;Task;Platby;Zaokrúhlenie sumy poplatku;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 12;18.08.2026;27.08.2026;12,0;17,5;0
+EDB-1214;Task;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 12;13.08.2026;23.08.2026;12,0;21,5;0
+EDB-1215;Story;Doručovanie;Zobrazenie histórie doručenia;Vysoká;Hotovo;Kverion;Michal Rác;Šprint 12;19.08.2026;30.08.2026;8,0;6,5;0
+EDB-1216;Task;Notifikácie;Šablóna e-mailu – diakritika;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;17.08.2026;27.08.2026;16,0;16,5;0
+EDB-1217;Bug;Platby;Nespárovaná platba s podaním;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 12;17.08.2026;21.08.2026;16,0;24,0;1
+EDB-1218;Story;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 12;16.08.2026;26.08.2026;8,0;8,5;0
+EDB-1219;Bug;Integrácia ÚPVS;Mapovanie typov správ;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 12;16.08.2026;13.09.2026;8,0;9,0;1
+EDB-1220;Story;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Nízka;Hotovo;Kverion;Lucia Vargová;Šprint 12;09.08.2026;19.08.2026;16,0;17,5;0
+EDB-1221;Bug;Doručovanie;Návrat nedoručenej zásielky;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 12;07.08.2026;14.08.2026;2,0;2,0;1
+EDB-1222;Task;Integrácia ÚPVS;Logovanie komunikácie s ÚPVS;Najvyššia;Hotovo;Kverion;Michal Rác;Šprint 12;11.08.2026;24.08.2026;12,0;9,5;0
+EDB-1223;Bug;Notifikácie;Odhlásenie z notifikácií;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 12;13.08.2026;17.08.2026;2,0;2,5;1
+EDB-1224;Story;Platby;Potvrdenie o platbe neobsahuje variabilný symbol;Stredná;Hotovo;Kverion;Michal Rác;Šprint 12;09.08.2026;17.08.2026;12,0;19,5;0
+EDB-1225;Bug;Administrácia;Export štatistík do Excelu;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 12;17.08.2026;23.08.2026;12,0;11,0;0
+EDB-1226;Bug;Podania;Podanie za inú osobu – splnomocnenie;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;11.08.2026;20.08.2026;16,0;16,5;2
+EDB-1227;Task;Integrácia ÚPVS;Opakované odoslanie po výpadku;Stredná;Hotovo;Kverion;Michal Rác;Šprint 12;14.08.2026;27.08.2026;12,0;12,0;0
+EDB-1228;Task;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;13.08.2026;25.08.2026;16,0;17,0;0
+EDB-1229;Bug;Doručovanie;Chybný adresát pri splnomocnení;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;09.08.2026;16.08.2026;16,0;17,0;0
+EDB-1230;Task;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Stredná;Hotovo;Mesto;Juraj Benko;Šprint 12;19.08.2026;23.08.2026;8,0;10,0;0
+EDB-1231;Bug;Podania;Formulár neuloží rozpracované podanie;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 12;14.08.2026;23.08.2026;12,0;10,5;1
+EDB-1232;Bug;Notifikácie;E-mail o prijatí podania nechodí;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;14.08.2026;16.08.2026;4,0;4,5;1
+EDB-1233;Task;Administrácia;Nastavenie lehôt pre agendu;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 12;18.08.2026;31.08.2026;16,0;20,0;0
+EDB-1234;Bug;Notifikácie;Duplicitné e-maily pri zmene stavu;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 12;14.08.2026;23.08.2026;2,0;2,0;0
+EDB-1235;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 12;13.08.2026;19.08.2026;2,0;2,0;0
+EDB-1236;Bug;Doručovanie;Návrat nedoručenej zásielky;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 12;14.08.2026;23.08.2026;3,0;3,5;0
+EDB-1237;Change request;Notifikácie;Zmena loga mesta;Stredná;Hotovo;Mesto;Juraj Benko;Šprint 12;10.08.2026;14.08.2026;12,0;12,5;0
+EDB-1238;Change request;Podania;Upraviť farby podľa vizuálu mesta;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 12;14.08.2026;22.08.2026;16,0;13,0;0
+EDB-1220;Story;Integrácia ÚPVS;Certifikát pre testovacie prostredie;Nízka;Hotovo;Kverion;Lucia Vargová;Šprint 12;09.08.2026;19.08.2026;16,0;17,5;0
+EDB-1239;Bug;Administrácia;Export štatistík do Excelu;Nízka;Hotovo;Mesto;Michal Rác;Šprint 13;30.08.2026;05.09.2026;16,0;19,5;0
+EDB-1240;Story;Integrácia ÚPVS;Logovanie komunikácie s ÚPVS;Stredná;Hotovo;Mesto;Michal Rác;Šprint 13;23.08.2026;03.09.2026;8,0;7,0;0
+EDB-1241;Task;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 13;26.08.2026;08.09.2026;4,0;4,5;0
+EDB-1242;Story;Notifikácie;E-mail o prijatí podania nechodí;Nízka;Hotovo;Mesto;Michal Rác;Šprint 13;01.09.2026;13.09.2026;12,0;11,0;0
+EDB-1243;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 13;22.08.2026;28.08.2026;3,0;3,0;0
+EDB-1244;Story;Integrácia ÚPVS;Opakované odoslanie po výpadku;Vysoká;Hotovo;Mesto;Eva Hudecová;Šprint 13;29.08.2026;03.09.2026;16,0;13,5;0
+EDB-1245;Bug;Administrácia;Export štatistík do Excelu;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 13;02.09.2026;08.09.2026;16,0;13,0;0
+EDB-1246;Story;Notifikácie;E-mail o prijatí podania nechodí;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 13;29.08.2026;07.09.2026;12,0;11,0;0
+EDB-1247;Bug;Integrácia ÚPVS;Logovanie komunikácie s ÚPVS;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 13;23.08.2026;11.09.2026;8,0;6,5;3
+EDB-1248;Story;Doručovanie;Doručenka sa nespáruje s podaním;Nízka;Hotovo;Kverion;Juraj Benko;Šprint 13;28.08.2026;03.09.2026;24,0;29,0;0
+EDB-1249;Bug;Platby;Potvrdenie o platbe neobsahuje variabilný symbol;Najvyššia;Hotovo;Mesto;Juraj Benko;Šprint 13;30.08.2026;08.09.2026;6,0;9,0;0
+EDB-1250;Bug;Administrácia;Správa používateľov úradu;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 13;02.09.2026;10.09.2026;12,0;12,5;1
+EDB-1251;Bug;Podania;Podanie za inú osobu – splnomocnenie;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 13;02.09.2026;08.09.2026;8,0;7,0;0
+EDB-1252;Story;Integrácia ÚPVS;Odpoveď ÚPVS sa nespracuje;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 13;23.08.2026;03.09.2026;32,0;40,0;0
+EDB-1253;Bug;Doručovanie;Chybný adresát pri splnomocnení;Nízka;Hotovo;Kverion;Ondrej Pavlík;Šprint 13;25.08.2026;29.08.2026;3,0;2,5;2
+EDB-1254;Bug;Integrácia ÚPVS;Mapovanie typov správ;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 13;26.08.2026;06.09.2026;6,0;5,0;2
+EDB-1255;Story;Platby;Zaokrúhlenie sumy poplatku;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 13;29.08.2026;07.09.2026;8,0;12,0;0
+EDB-1256;Story;Administrácia;Export štatistík do Excelu;Vysoká;Hotovo;Kverion;Eva Hudecová;Šprint 13;21.08.2026;27.08.2026;24,0;28,0;0
+EDB-1257;Task;Doručovanie;Stav Doručené sa neaktualizuje;Vysoká;Hotovo;Mesto;Ondrej Pavlík;Šprint 13;23.08.2026;05.09.2026;16,0;20,5;0
+EDB-1258;Story;Integrácia ÚPVS;Odpoveď ÚPVS sa nespracuje;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 13;27.08.2026;03.09.2026;12,0;13,5;0
+EDB-1259;Bug;Doručovanie;Zobrazenie histórie doručenia;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 13;28.08.2026;31.08.2026;2,0;2,0;0
+EDB-1260;Bug;Integrácia ÚPVS;Chyba pri overení eID tokenu;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 13;24.08.2026;14.09.2026;16,0;15,0;0
+EDB-1261;Story;Administrácia;Číselník agend;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 13;30.08.2026;08.09.2026;16,0;13,5;0
+EDB-1262;Bug;Doručovanie;Doručenka sa nespáruje s podaním;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 13;30.08.2026;01.09.2026;4,0;5,0;0
+EDB-1263;Story;Notifikácie;Odhlásenie z notifikácií;Najvyššia;Hotovo;Mesto;Michal Rác;Šprint 13;22.08.2026;26.08.2026;8,0;10,0;0
+EDB-1264;Task;Doručovanie;Chybný adresát pri splnomocnení;Vysoká;Hotovo;Mesto;Eva Hudecová;Šprint 13;27.08.2026;04.09.2026;4,0;4,5;0
+EDB-1265;Change request;Podania;Pridať tlač potvrdenia;Stredná;Hotovo;Mesto;Michal Rác;Šprint 13;29.08.2026;07.09.2026;6,0;7,5;0
+EDB-1266;Bug;Notifikácie;E-mail o prijatí podania nechodí;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 14;11.09.2026;15.09.2026;16,0;20,0;1
+EDB-1267;Story;Podania;Podanie za inú osobu – splnomocnenie;Nízka;Hotovo;Kverion;Eva Hudecová;Šprint 14;14.09.2026;20.09.2026;32,0;29,0;0
+EDB-1268;Bug;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 14;04.09.2026;13.09.2026;3,0;3,5;0
+EDB-1269;Story;Notifikácie;Šablóna e-mailu – diakritika;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 14;09.09.2026;22.09.2026;32,0;32,0;0
+EDB-1270;Story;Administrácia;Audit log zmien;Vysoká;Hotovo;Mesto;Tomáš Kriško;Šprint 14;04.09.2026;09.09.2026;12,0;12,5;0
+EDB-1271;Story;Doručovanie;Doručenie rozhodnutia firme so zástupcom;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 14;16.09.2026;24.09.2026;16,0;16,0;0
+EDB-1272;Story;Doručovanie;Chybný adresát pri splnomocnení;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 14;08.09.2026;12.09.2026;32,0;34,5;0
+EDB-1273;Task;Notifikácie;Duplicitné e-maily pri zmene stavu;Nízka;Hotovo;Kverion;Tomáš Kriško;Šprint 14;13.09.2026;21.09.2026;3,0;3,0;0
+EDB-1274;Task;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Stredná;Hotovo;Mesto;Juraj Benko;Šprint 14;07.09.2026;15.09.2026;6,0;5,0;0
+EDB-1275;Story;Podania;Formulár priznania k dani – sekcia spoluvlastníci;Nízka;Hotovo;Kverion;Ondrej Pavlík;Šprint 14;04.09.2026;11.09.2026;32,0;40,5;0
+EDB-1276;Task;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Kverion;Michal Rác;Šprint 14;06.09.2026;18.09.2026;16,0;14,0;0
+EDB-1277;Task;Doručovanie;Návrat nedoručenej zásielky;Vysoká;Hotovo;Mesto;Eva Hudecová;Šprint 14;11.09.2026;22.09.2026;16,0;20,0;0
+EDB-1278;Bug;Administrácia;Export štatistík do Excelu;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 14;05.09.2026;07.09.2026;8,0;6,5;1
+EDB-1279;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Nízka;Hotovo;Kverion;Juraj Benko;Šprint 14;05.09.2026;12.09.2026;8,0;8,5;0
+EDB-1280;Story;Podania;Nesprávne zobrazenie dátumu narodenia;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 14;04.09.2026;17.09.2026;12,0;12,0;0
+EDB-1281;Task;Administrácia;Export štatistík do Excelu;Vysoká;Hotovo;Kverion;Ondrej Pavlík;Šprint 14;05.09.2026;12.09.2026;4,0;3,5;0
+EDB-1282;Story;Notifikácie;Duplicitné e-maily pri zmene stavu;Vysoká;Hotovo;Kverion;Lucia Vargová;Šprint 14;08.09.2026;19.09.2026;8,0;8,0;0
+EDB-1283;Bug;Podania;Formulár neuloží rozpracované podanie;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 14;15.09.2026;21.09.2026;16,0;20,5;0
+EDB-1284;Bug;Platby;Platobná brána – test 3D Secure;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 14;06.09.2026;10.09.2026;3,0;6,0;0
+EDB-1285;Story;Doručovanie;Stav Doručené sa neaktualizuje;Vysoká;Hotovo;Kverion;Michal Rác;Šprint 14;16.09.2026;22.09.2026;16,0;13,5;0
+EDB-1286;Story;Integrácia ÚPVS;Zmena formátu správy ÚPVS;Stredná;Hotovo;Kverion;Juraj Benko;Šprint 14;13.09.2026;22.09.2026;12,0;14,0;0
+EDB-1287;Bug;Administrácia;Audit log zmien;Najvyššia;Hotovo;Mesto;Eva Hudecová;Šprint 14;08.09.2026;11.09.2026;3,0;3,0;0
+EDB-1288;Story;Notifikácie;E-mail o prijatí podania nechodí;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 14;11.09.2026;21.09.2026;12,0;11,0;0
+EDB-1289;Task;Integrácia ÚPVS;Mapovanie typov správ;Vysoká;Hotovo;Mesto;Ondrej Pavlík;Šprint 14;11.09.2026;21.09.2026;6,0;5,5;0
+EDB-1290;Change request;Administrácia;Zmena poradia krokov formulára;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 14;11.09.2026;14.09.2026;12,0;14,0;0
+EDB-1291;Change request;Podania;Upraviť farby podľa vizuálu mesta;Vysoká;Hotovo;Mesto;Juraj Benko;Šprint 14;11.09.2026;22.09.2026;2,0;2,0;0
+EDB-1292;Change request;Notifikácie;Zobraziť zákonnú lehotu občanovi;Nízka;Hotovo;Mesto;Tomáš Kriško;Šprint 14;12.09.2026;15.09.2026;4,0;3,5;0
+EDB-1293;Change request;Notifikácie;Pridať SMS notifikácie;Stredná;Hotovo;Mesto;Juraj Benko;Šprint 14;06.09.2026;16.09.2026;8,0;8,5;0
+EDB-1294;Change request;Podania;Pridať novú agendu do pilotu;Stredná;Hotovo;Mesto;Michal Rác;Šprint 14;14.09.2026;17.09.2026;2,0;2,0;0
+EDB-1295;Change request;Podania;Zrušiť SMS notifikácie;Stredná;Hotovo;Mesto;Ondrej Pavlík;Šprint 14;12.09.2026;17.09.2026;12,0;15,0;0
+EDB-1296;Bug;Integrácia ÚPVS;Odpoveď ÚPVS sa nespracuje;Vysoká;Otvorené;Kverion;Juraj Benko;Šprint 15;24.09.2026;;16,0;4,5;0
+EDB-1297;Bug;Platby;Nespárovaná platba s podaním;Najvyššia;Hotovo;Kverion;Juraj Benko;Šprint 15;28.09.2026;01.10.2026;4,0;6,5;0
+EDB-1298;Bug;Podania;Kontrola duplicitného podania;Vysoká;Hotovo;Kverion;Juraj Benko;Šprint 15;25.09.2026;28.09.2026;6,0;5,5;0
+EDB-1299;Bug;Doručovanie;Zobrazenie histórie doručenia;Stredná;Otvorené;Kverion;Tomáš Kriško;Šprint 15;27.09.2026;;16,0;9,0;0
+EDB-1300;Story;Platby;Zaokrúhlenie sumy poplatku;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 15;26.09.2026;30.09.2026;24,0;35,5;0
+EDB-1301;Story;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Stredná;Hotovo;Kverion;Michal Rác;Šprint 15;22.09.2026;28.09.2026;24,0;24,0;0
+EDB-1302;Task;Doručovanie;Návrat nedoručenej zásielky;Stredná;Na testovaní;Kverion;Tomáš Kriško;Šprint 15;30.09.2026;;4,0;1,0;0
+EDB-1303;Bug;Podania;Nesprávne zobrazenie dátumu narodenia;Nízka;Hotovo;Mesto;Juraj Benko;Šprint 15;20.09.2026;25.09.2026;8,0;9,0;0
+EDB-1304;Bug;Podania;Zlé zalamovanie textu na mobile;Vysoká;Otvorené;Kverion;Juraj Benko;Šprint 15;30.09.2026;;8,0;8,0;0
+EDB-1305;Story;Platby;Nespárovaná platba s podaním;Stredná;Hotovo;Mesto;Lucia Vargová;Šprint 15;18.09.2026;26.09.2026;24,0;36,0;0
+EDB-1306;Story;Integrácia ÚPVS;Timeout pri odoslaní do schránky;Stredná;Hotovo;Kverion;Lucia Vargová;Šprint 15;18.09.2026;01.10.2026;32,0;36,0;0
+EDB-1307;Bug;Administrácia;Nastavenie lehôt pre agendu;Stredná;Hotovo;Kverion;Eva Hudecová;Šprint 15;26.09.2026;02.10.2026;3,0;3,0;0
+EDB-1308;Task;Platby;Vrátenie poplatku pri zastavení konania;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 15;18.09.2026;23.09.2026;6,0;9,0;0
+EDB-1309;Bug;Doručovanie;Zobrazenie histórie doručenia;Stredná;V riešení;Mesto;Ondrej Pavlík;Šprint 15;29.09.2026;;16,0;18,0;0
+EDB-1310;Bug;Notifikácie;E-mail o prijatí podania nechodí;Vysoká;Otvorené;Kverion;Juraj Benko;Šprint 15;24.09.2026;;8,0;5,0;0
+EDB-1311;Bug;Notifikácie;Notifikácia do schránky ÚPVS;Stredná;Hotovo;Kverion;Tomáš Kriško;Šprint 15;25.09.2026;28.09.2026;16,0;18,5;0
+EDB-1312;Story;Platby;Vrátenie poplatku pri zastavení konania;Nízka;Otvorené;Kverion;Juraj Benko;Šprint 15;30.09.2026;;32,0;61,5;0
+EDB-1313;Task;Administrácia;Audit log zmien;Stredná;Otvorené;Mesto;Eva Hudecová;Šprint 15;28.09.2026;;8,0;4,0;0
+EDB-1314;Task;Integrácia ÚPVS;Logovanie komunikácie s ÚPVS;Stredná;Otvorené;Mesto;Ondrej Pavlík;Šprint 15;27.09.2026;;8,0;8,5;0
+EDB-1315;Task;Podania;Validácia IČO pri podaní firmy;Nízka;Hotovo;Mesto;Tomáš Kriško;Šprint 15;26.09.2026;30.09.2026;2,0;2,0;0
+EDB-1316;Bug;Administrácia;Export štatistík do Excelu;Stredná;Na testovaní;Kverion;Eva Hudecová;Šprint 15;26.09.2026;;4,0;4,5;1
+EDB-1317;Story;Platby;Nespárovaná platba s podaním;Vysoká;V riešení;Kverion;Eva Hudecová;Šprint 15;28.09.2026;;32,0;60,0;0
+EDB-1318;Story;Doručovanie;Zobrazenie histórie doručenia;Stredná;Hotovo;Kverion;Ondrej Pavlík;Šprint 15;19.09.2026;01.10.2026;32,0;26,0;0
+EDB-1319;Task;Administrácia;Číselník agend;Najvyššia;V riešení;Kverion;Ondrej Pavlík;Šprint 15;24.09.2026;;16,0;6,0;0
+EDB-1320;Story;Platby;Zaokrúhlenie sumy poplatku;Stredná;Hotovo;Kverion;Michal Rác;Šprint 15;22.09.2026;29.09.2026;24,0;34,5;0
+EDB-1321;Change request;Podania;Zrušiť SMS notifikácie;Stredná;Hotovo;Mesto;Eva Hudecová;Šprint 15;21.09.2026;30.09.2026;6,0;5,5;0
+EDB-1322;Change request;Podania;Doplniť infotext k lehotám;Nízka;V riešení;Mesto;Ondrej Pavlík;Šprint 15;24.09.2026;;6,0;5,5;0
+EDB-1323;Change request;Podania;Pridať tlač potvrdenia;Stredná;Na testovaní;Mesto;Tomáš Kriško;Šprint 15;24.09.2026;;3,0;4,0;0
+EDB-1324;Change request;Podania;Pridať tlač potvrdenia;Stredná;V riešení;Mesto;Eva Hudecová;Šprint 15;24.09.2026;;8,0;4,0;0
+EDB-1325;Change request;Podania;Pridať SMS notifikácie;Najvyššia;Hotovo;Mesto;Eva Hudecová;Šprint 15;20.09.2026;24.09.2026;4,0;5,0;0
+EDB-1326;Change request;Notifikácie;Zmena loga mesta;Stredná;Hotovo;Mesto;Ondrej Pavlík;Šprint 15;18.09.2026;30.09.2026;6,0;5,0;0
+EDB-1327;Change request;Notifikácie;Pridať novú agendu do pilotu;Vysoká;Hotovo;Mesto;Ondrej Pavlík;Šprint 15;26.09.2026;29.09.2026;8,0;8,5;0
+EDB-1328;Change request;Administrácia;Pridať export pre podateľňu;Stredná;Hotovo;Mesto;Tomáš Kriško;Šprint 15;22.09.2026;30.09.2026;4,0;4,5;0
+EDB-1329;Change request;Administrácia;Zmena limitu príloh;Vysoká;Hotovo;Mesto;Michal Rác;Šprint 15;19.09.2026;01.10.2026;3,0;3,0;0
